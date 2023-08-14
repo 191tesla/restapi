@@ -29,7 +29,7 @@ Docker ile ayağa kaldırılmaya uygundur.
 ```
 
 
-#### Çalışan i container'i durdurur.
+#### Çalışan container'i durdurur.
 
 ```http
   docker-compose down
