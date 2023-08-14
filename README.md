@@ -63,7 +63,7 @@ bu komut ile Containerlar aynı networke taşınabilir. ve buradaki gateway DATA
              campaign adresi için: "campaignexample.json" bodyden gönderilir ve database doldurulur.
              
 
-http://localhost:3000/ Ençok satılan 4 ürünü gettirir.
+http://localhost:3000/ Ençok satılan 4 ürünü getirir.
 
 http://localhost:3000/allbooks Tüm ürünleri ve bilgilerini getirir.
 
