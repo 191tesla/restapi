@@ -22,14 +22,13 @@ Docker ile ayağa kaldırılmaya uygundur.
  
 
 
-#### PROJEYİ DOCKER'DA AYAĞA KALDIRIR
+#### Kullanımı
 
 ```http
   docker-compose up 
 ```
 
 
-#### Çalışan container'i durdurur.
 
 ```http
   docker-compose down
