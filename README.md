@@ -56,7 +56,7 @@ bu komut ile Containerlar aynı networke taşınabilir. ve buradaki gateway DATA
 
 2. Sırasıyla 
      
-     Yine aynı adrreslere:
+     Yine aynı adreslere:
      
              products adresi için:  "Case_Products.json" içeriği bodyden gönderilir ve database doldurulur.
              orders adresi için: "orderexample.json" bodyden gönderilir ve database doldurulur.
