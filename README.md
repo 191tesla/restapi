@@ -46,11 +46,11 @@ bu komut ile Containerlar aynı networke taşınabilir. ve buradaki gateway DATA
   ## API Kullanımı
 1. Sırasıyla 
 
-    http://localhost:3000//createtables/products
+    http://localhost:3000/createtables/products
 
-    http://localhost:3000//createtables/orders
+    http://localhost:3000/createtables/orders
 
-    http://localhost:3000//createtables/campaign
+    http://localhost:3000/createtables/campaign
 
     Adreslerine boş Get isteği atılarak boş tablolar oluşturulur.
 
@@ -63,7 +63,7 @@ bu komut ile Containerlar aynı networke taşınabilir. ve buradaki gateway DATA
              campaign adresi için: "campaignexample.json" bodyden gönderilir ve database doldurulur.
              
 
-http://localhost:3000/ Ençok satılan 4 ürünü getirir.
+http://localhost:3000/ En çok satılan 4 ürünü getirir.
 
 http://localhost:3000/allbooks Tüm ürünleri ve bilgilerini getirir.
 
