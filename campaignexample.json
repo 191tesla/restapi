@@ -1,0 +1,11 @@
+[
+    {
+        "campain_id": 1,
+        "campain_name":"2 al 1 öde kampanyası",
+        "campain_dis": 3,
+        "campain_ratio": 0.05,
+        "active":1,
+        "author":"Sabahattin Ali",
+        "campain_limit":0
+    }
+]
